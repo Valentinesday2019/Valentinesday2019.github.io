@@ -1,8 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
-
 
 
 #menu-0 .navbar-toggler {
@@ -12,16 +9,6 @@
   text-align: left;
   font-size: 30px;
   font-family: 'Oswald', sans-serif;
-}
-#slider-3 B {
-  color: #000000;
-  font-family: 'Oswald', sans-serif;
-}
-#slider-3 H2 {
-  text-align: center;
-  color: #000000;
-  font-size: 72px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #social-buttons1-j .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
