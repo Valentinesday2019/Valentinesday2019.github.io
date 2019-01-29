@@ -90,7 +90,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Celebrate <i>Valentine's Day</i>&nbsp; with the whole family.",
+          "title": "Celebrate <i>Valentine's Day</i>&nbsp; with the whole family. <i>\"2019\"</i>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
@@ -116,7 +116,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "29",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -136,7 +136,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -150,7 +153,7 @@
               "size": 0
             }
           },
-          "title": "Celebrate Valentine's Day  with the whole family.",
+          "title": "“There is only one happiness in life: to love and be loved.” – George Sand, Author.\r<div><br></div>",
           "text": "",
           "alias": "purity/components",
           "_tags": [
@@ -159,14 +162,20 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-q"
+          "_anchor": "msg-box4-q",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "19px"
+            }
+          }
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showCaption": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -180,8 +189,8 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Celebrate Valentine's Day with the whole family.",
-          "caption": "<p>&nbsp;gifts for the entire family given everybody a chance to express their affection in interesting ways. Say Happy Valentine’s Day baby with adorable Valentine rompers and t-shirts that recognize their first year with their first Valentine's Day blessing. In this way, get a charming and customized Valentine's day blessing that the whole family can appreciate.</p><p>Here you're going to find a <b><i>list of things</i></b> you can easily afford to give to the ones you love on <i style=\"font-weight: bold;\">valentine's Day &nbsp;</i>with a direct link to it on <b><i>Amazon.com</i></b></p><p><br></p><p><br></p>",
+          "title": "",
+          "caption": "<p>Gifts for the entire family given everybody a chance to express their affection in interesting ways. Say Happy Valentine’s Day baby with adorable Valentine rompers and t-shirts that recognize their first year with their first Valentine's Day blessing. In this way, get a charming and customized Valentine's day blessing that the whole family can appreciate.</p><p>Here you're going to find a <b><i>list of things</i></b> you can easily afford to give to the ones you love on <i style=\"font-weight: bold;\">valentine's Day &nbsp;</i>with a direct link to it on <b><i>Amazon.com</i></b></p><p><br></p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -196,8 +205,8 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
